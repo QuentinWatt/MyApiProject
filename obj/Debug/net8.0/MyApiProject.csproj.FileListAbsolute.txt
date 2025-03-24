@@ -31,3 +31,4 @@
 /Users/quentinwatt/sites/MyApiProject/obj/Debug/net8.0/MyApiProject.pdb
 /Users/quentinwatt/sites/MyApiProject/obj/Debug/net8.0/MyApiProject.genruntimeconfig.cache
 /Users/quentinwatt/sites/MyApiProject/obj/Debug/net8.0/ref/MyApiProject.dll
+/Users/quentinwatt/sites/MyApiProject/obj/Debug/net8.0/MyApiProject.sourcelink.json
